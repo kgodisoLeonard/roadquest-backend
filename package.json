@@ -1,0 +1,13 @@
+{
+  "name": "roadquest-backend",
+  "version": "1.0.0",
+  "description": "Backend proxy and map services for Roadquest",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "express": "^4.19.2"
+  }
+}
